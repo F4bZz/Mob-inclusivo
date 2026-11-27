@@ -1,4 +1,4 @@
-
+window.location.href = "https://f4bzz.github.io/MobInclusivo-1.7/"
 // ==========================
 // ELEMENTOS DO HTML
 // ==========================
